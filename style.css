@@ -26,7 +26,9 @@ h2 { color: #ba0018;
      font-weight:400;
      font-family: 'Merriweather', serif;
 }
+/*
 h2:first-letter { font-size: 150%; }
+*/
 h3 { font-size: 18px;
      font-weight: bold;
      margin-bottom: 0;

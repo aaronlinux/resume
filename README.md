@@ -1,6 +1,6 @@
 resume
 ======
 
-[View it here](https://nuterian.github.io/resume/)
+[View it here](https://www.liusong.net)
 
 Print the page to get a copy
